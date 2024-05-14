@@ -1,0 +1,459 @@
+.mediaViewInfo {
+	--web-view-name: Profile;
+	--web-view-id: Profile;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display, sans-serif;
+}
+:root {
+	--web-view-ids: Profile;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Profile {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	font-family: heebo,neue-haas-display, sans-serif;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Profile;
+	--web-view-id: Profile;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display, sans-serif;
+}
+#BG_b {
+	fill: rgba(104,141,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_b {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 851px;
+	left: 0px;
+	top: 69px;
+}
+#Upper_Border_ {
+	fill: rgba(186,209,214,1);
+}
+.Upper_Border_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 169px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_8_ {
+	fill: rgba(186,209,214,1);
+}
+.Rectangle_8_ {
+	position: absolute;
+	overflow: visible;
+	width: 1933px;
+	height: 96px;
+	left: 0px;
+	top: 162px;
+}
+#Group_3_ {
+	position: absolute;
+	width: 345px;
+	height: 46px;
+	left: 1551px;
+	top: 41px;
+	overflow: visible;
+}
+#CREATORS_ {
+	left: 151px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#SHOP_ {
+	left: 22px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#Ellipse_1_ {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_ {
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	height: 46px;
+	left: 299px;
+	top: 0px;
+}
+#Ellipse_2_a {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_a {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 313px;
+	top: 7px;
+}
+#Path_1_b {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 34.024px;
+	height: 5.184px;
+	left: 305.381px;
+	top: 28.934px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_1_c {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_c {
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 38px;
+	left: 0px;
+	top: 4px;
+}
+#Rectangle_2_d {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_d {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 38px;
+	left: 132px;
+	top: 4px;
+}
+#Logo_e {
+	position: absolute;
+	width: 304px;
+	height: 171px;
+	left: -20px;
+	top: -27.5px;
+	overflow: visible;
+}
+#HOME_f {
+	left: 264px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GENRES_h {
+	left: 360px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#POPULAR_h {
+	left: 475px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#FORUM_i {
+	left: 603px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GALLERY_j {
+	left: 709px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#Polygon_1_k {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_1_k {
+	overflow: visible;
+	position: absolute;
+	width: 48.925px;
+	height: 45.273px;
+	transform: matrix(1,0,0,1,762.063,30.9174) rotate(-24deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_l {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_2_l {
+	overflow: visible;
+	position: absolute;
+	width: 83.975px;
+	height: 77.403px;
+	transform: matrix(1,0,0,1,663.8481,30.1475) rotate(22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3_m {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_3_m {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 3px;
+	left: 603px;
+	top: 75.5px;
+}
+#Rectangle_4_n {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_4_n {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 2px;
+	left: 613px;
+	top: 82.5px;
+}
+#Rectangle_5_o {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_5_o {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 3px;
+	left: 626px;
+	top: 88.5px;
+}
+#Fire_1_p {
+	position: absolute;
+	width: 22.759px;
+	height: 23.027px;
+	left: 463.708px;
+	top: 61.926px;
+	overflow: visible;
+}
+#Fire_2_r {
+	position: absolute;
+	width: 18.448px;
+	height: 18.773px;
+	left: 553.489px;
+	top: 47.852px;
+	overflow: visible;
+}
+#Path_8_r {
+	fill: rgba(255,255,255,1);
+}
+.Path_8_r {
+	overflow: visible;
+	position: absolute;
+	width: 1982px;
+	height: 4px;
+	left: -20px;
+	top: 114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4_s {
+	position: absolute;
+	width: 509px;
+	height: 46px;
+	left: 1368px;
+	top: 126px;
+	overflow: visible;
+}
+#Rectangle_610_t {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_610_t {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 37px;
+	left: 0px;
+	top: 5px;
+}
+#Type_title_author_or_genre__u {
+	opacity: 0.251;
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(21,21,21,1);
+	letter-spacing: 0.3px;
+}
+#Top_Navigation__Search_v {
+	opacity: 0.251;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 417px;
+	top: 15px;
+	overflow: visible;
+}
+#n_0_General__01_Icons__02_Comm_w {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BG_x {
+	fill: rgba(0,0,0,0);
+}
+.BG_x {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#color_y {
+	fill: rgba(126,132,163,1);
+}
+.color_y {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 2px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Comp_4_00000_z {
+	position: absolute;
+	width: 46px;
+	height: 46px;
+	left: 463px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9_ {
+	fill: rgba(22,38,41,1);
+}
+.Rectangle_9_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1624px;
+	left: 0px;
+	top: 180px;
+}

@@ -1,0 +1,1654 @@
+.mediaViewInfo {
+	--web-view-name: Popular;
+	--web-view-id: Popular;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display, sans-serif;
+}
+:root {
+	--web-view-ids: Popular;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Popular {
+	position: absolute;
+	width: 1920px;
+	height: 2376px;
+	font-family: heebo,neue-haas-display, sans-serif;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Popular;
+	--web-view-id: Popular;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display, sans-serif;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#BG_mw {
+	fill: rgba(104,141,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_mw {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 851px;
+	left: 0px;
+	top: 69px;
+}
+#Upper_Border_mx {
+	fill: rgba(186,209,214,1);
+}
+.Upper_Border_mx {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 169px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_8_my {
+	fill: rgba(186,209,214,1);
+}
+.Rectangle_8_my {
+	position: absolute;
+	overflow: visible;
+	width: 1933px;
+	height: 96px;
+	left: 0px;
+	top: 162px;
+}
+#CREATORS_mz {
+	left: 1702px;
+	top: 54px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#Ellipse_1_m {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	height: 46px;
+	left: 1850px;
+	top: 41px;
+}
+#Ellipse_2_m {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_m {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 1864px;
+	top: 48px;
+}
+#Path_1_m {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_m {
+	overflow: visible;
+	position: absolute;
+	width: 34.024px;
+	height: 5.184px;
+	left: 1856.38px;
+	top: 69.934px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_51 {
+	position: absolute;
+	width: 92px;
+	height: 38px;
+	left: 1551px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Shop.html;
+	cursor: pointer;
+}
+#SHOP_m {
+	left: 22px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#Rectangle_1_m {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_m {
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Group_52 {
+	position: absolute;
+	width: 131px;
+	height: 38px;
+	left: 1683px;
+	top: 45px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Creators.html;
+	cursor: pointer;
+}
+#Rectangle_2_m {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_m {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_m {
+	position: absolute;
+	width: 304px;
+	height: 171px;
+	left: -20px;
+	top: -27.5px;
+	overflow: visible;
+}
+#HOME_m {
+	left: 264px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GENRES_na {
+	left: 360px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Generes.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#POPULAR_nb {
+	left: 475px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#FORUM_nc {
+	left: 603px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Forum.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GALLERY_nd {
+	left: 709px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Gallery.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#Polygon_1_ne {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_1_ne {
+	overflow: visible;
+	position: absolute;
+	width: 48.925px;
+	height: 45.273px;
+	transform: matrix(1,0,0,1,762.063,30.9174) rotate(-24deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_nf {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_2_nf {
+	overflow: visible;
+	position: absolute;
+	width: 83.975px;
+	height: 77.403px;
+	transform: matrix(1,0,0,1,663.8486,30.1475) rotate(22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3_ng {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_3_ng {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 3px;
+	left: 603px;
+	top: 75.5px;
+}
+#Rectangle_4_nh {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_4_nh {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 2px;
+	left: 613px;
+	top: 82.5px;
+}
+#Rectangle_5_ni {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_5_ni {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 3px;
+	left: 626px;
+	top: 88.5px;
+}
+#Fire_1_nj {
+	position: absolute;
+	width: 22.759px;
+	height: 23.027px;
+	left: 463.708px;
+	top: 61.926px;
+	overflow: visible;
+}
+#Fire_2_nk {
+	position: absolute;
+	width: 18.449px;
+	height: 18.773px;
+	left: 553.489px;
+	top: 47.852px;
+	overflow: visible;
+}
+#Rectangle_612_nl {
+	fill: rgba(47,78,85,1);
+}
+.Rectangle_612_nl {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 17px;
+	left: 517.5px;
+	top: 35.5px;
+}
+#Path_8_nm {
+	fill: rgba(255,255,255,1);
+}
+.Path_8_nm {
+	overflow: visible;
+	position: absolute;
+	width: 1982px;
+	height: 4px;
+	left: -20px;
+	top: 114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4_nn {
+	position: absolute;
+	width: 509px;
+	height: 46px;
+	left: 1368px;
+	top: 126px;
+	overflow: visible;
+}
+#Rectangle_610_no {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_610_no {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 37px;
+	left: 0px;
+	top: 5px;
+}
+#Type_title_author_or_genre__np {
+	opacity: 0.251;
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(21,21,21,1);
+	letter-spacing: 0.3px;
+}
+#Top_Navigation__Search_nq {
+	opacity: 0.251;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 417px;
+	top: 15px;
+	overflow: visible;
+}
+#n_0_General__01_Icons__02_Comm_nr {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BG_ns {
+	fill: rgba(0,0,0,0);
+}
+.BG_ns {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#color_nt {
+	fill: rgba(126,132,163,1);
+}
+.color_nt {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 2px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Comp_4_00000_nu {
+	position: absolute;
+	width: 46px;
+	height: 46px;
+	left: 463px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9_nv {
+	fill: rgba(22,38,41,1);
+}
+.Rectangle_9_nv {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2054px;
+	left: 0px;
+	top: 180px;
+}
+#TRENDING {
+	left: 857px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49px;
+	color: rgba(255,255,255,1);
+}
+#Weekly_Top_5 {
+	left: 839px;
+	top: 495px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,255,255,1);
+}
+#top_jawn_ny {
+	fill: rgba(54,88,88,1);
+}
+.top_jawn_ny {
+	position: absolute;
+	overflow: visible;
+	width: 1976px;
+	height: 25px;
+	left: -7px;
+	top: 267px;
+}
+#Group_39 {
+	position: absolute;
+	width: 1920px;
+	height: 162px;
+	left: 0px;
+	top: 2214px;
+	overflow: visible;
+}
+#BG_n {
+	fill: rgba(104,141,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_n {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 162px;
+	left: 0px;
+	top: 0px;
+}
+#Group_37_n {
+	position: absolute;
+	width: 1481px;
+	height: 28px;
+	left: 220px;
+	top: 74px;
+	overflow: visible;
+}
+#About_Us_n {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Feedback_n {
+	left: 322px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Help_n {
+	left: 653px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Terms_n {
+	left: 861px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Privacy_n {
+	left: 1107px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Contact_n {
+	left: 1385px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Repeat_Grid_13 {
+	position: absolute;
+	width: 1904px;
+	height: 798px;
+	left: 45px;
+	top: 668px;
+	overflow: hidden;
+}
+#Group_n {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4 {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_ob {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_oc {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_oc {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_od {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_oe {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_of {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 320px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4_og {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_oh {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_oi {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_oi {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_oj {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_ok {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_ol {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 640px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4_om {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_on {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_oo {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_oo {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_op {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_oq {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_or {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 960px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4_os {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_ot {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_ou {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_ou {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_ov {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_ow {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_ox {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 1280px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4_oy {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_oz {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_o {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_o {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_o {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_o {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_o {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 1600px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__4_o {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_o {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_pa {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_pa {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_pa {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_pa {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_pa {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_pa {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_pb {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_pc {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_pc {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_pd {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_pe {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_pf {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 320px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_pg {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_ph {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_pi {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_pi {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_pj {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_pk {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_pl {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 640px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_pm {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_pn {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_po {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_po {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_pp {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_pq {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_pr {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 960px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_ps {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_pt {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_pu {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_pu {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_pv {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_pw {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_px {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 1280px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_py {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_pz {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_p {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_p {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_p {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_p {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Group_p {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 1600px;
+	top: 402px;
+	overflow: visible;
+}
+#Component_6__4_p {
+	position: absolute;
+	width: 238px;
+	height: 381px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ac72c6034c9cb4183d9f1ed1d40ff7_p {
+	position: absolute;
+	width: 238px;
+	height: 333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_622_qa {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_622_qa {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 1px;
+	left: 0px;
+	top: 359px;
+}
+#Mob_Psycho_100_qa {
+	left: 0px;
+	top: 338px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#Chapter_123_qa {
+	left: 0px;
+	top: 365px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(165,220,230,1);
+	letter-spacing: 0.8px;
+}
+#top_right_p {
+	position: absolute;
+	width: 442px;
+	height: 144px;
+	left: 1376px;
+	top: 379px;
+	overflow: visible;
+}
+#b34e10a63ca7920c5263bf5dc4601e_qa {
+	position: absolute;
+	width: 442px;
+	height: 144px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_50 {
+	position: absolute;
+	width: 306px;
+	height: 42px;
+	left: 807px;
+	top: 2089px;
+	overflow: visible;
+}
+#Group_45_qc {
+	position: absolute;
+	width: 149px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_630_qd {
+	fill: rgba(104,141,149,1);
+}
+.Rectangle_630_qd {
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#Previous_page_qe {
+	left: 14px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#Group_44_qf {
+	position: absolute;
+	width: 149px;
+	height: 42px;
+	left: 157px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_631_qg {
+	fill: rgba(104,141,149,1);
+}
+.Rectangle_631_qg {
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+#Next_page_qh {
+	left: 32px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1px;
+}
+#POPULAR_qi {
+	left: 50px;
+	top: 202px;
+	position: absolute;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 41px;
+	color: rgba(255,255,255,1);
+}

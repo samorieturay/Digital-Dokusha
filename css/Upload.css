@@ -1,0 +1,601 @@
+.mediaViewInfo {
+	--web-view-name: Upload;
+	--web-view-id: Upload;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display;
+}
+:root {
+	--web-view-ids: Upload;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Upload {
+	position: absolute;
+	width: 1920px;
+	height: 2429px;
+	font-family: heebo,neue-haas-display;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Upload;
+	--web-view-id: Upload;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: heebo,neue-haas-display;
+}
+#BG_bfp {
+	fill: rgba(104,141,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_bfp {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 851px;
+	left: 0px;
+	top: 69px;
+}
+#Upper_Border_bfq {
+	fill: rgba(186,209,214,1);
+}
+.Upper_Border_bfq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 169px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_8_bfr {
+	fill: rgba(186,209,214,1);
+}
+.Rectangle_8_bfr {
+	position: absolute;
+	overflow: visible;
+	width: 1933px;
+	height: 96px;
+	left: 0px;
+	top: 162px;
+}
+#Ellipse_1_bfs {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_bfs {
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	height: 46px;
+	left: 1850px;
+	top: 41px;
+}
+#Ellipse_2_bft {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_bft {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 1864px;
+	top: 48px;
+}
+#Path_1_bfu {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1_bfu {
+	overflow: visible;
+	position: absolute;
+	width: 34.025px;
+	height: 5.184px;
+	left: 1856.381px;
+	top: 69.934px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_53_bfv {
+	position: absolute;
+	width: 92px;
+	height: 38px;
+	left: 1551px;
+	top: 45px;
+	overflow: visible;
+}
+#SHOP_bfw {
+	left: 22px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#Rectangle_1_bfx {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_bfx {
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Group_54_bfy {
+	position: absolute;
+	width: 131px;
+	height: 38px;
+	left: 1683px;
+	top: 45px;
+	overflow: visible;
+}
+#CREATORS_bfz {
+	left: 19px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(47,79,86,1);
+}
+#Rectangle_2_bf {
+	fill: transparent;
+	stroke: rgba(47,79,86,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2_bf {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Logo_bf {
+	position: absolute;
+	width: 304px;
+	height: 171px;
+	left: -20px;
+	top: -27.5px;
+	overflow: visible;
+}
+#HOME_bf {
+	left: 264px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GENRES_bf {
+	left: 360px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#POPULAR_bf {
+	left: 475px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#FORUM_bf {
+	left: 603px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#GALLERY_bf {
+	left: 709px;
+	top: 53.5px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(47,79,86,1);
+}
+#Polygon_1_bf {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_1_bf {
+	overflow: visible;
+	position: absolute;
+	width: 48.925px;
+	height: 45.273px;
+	transform: matrix(1,0,0,1,762.063,30.9174) rotate(-24deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polygon_2_bf {
+	fill: rgba(47,79,86,1);
+}
+.Polygon_2_bf {
+	overflow: visible;
+	position: absolute;
+	width: 83.975px;
+	height: 77.403px;
+	transform: matrix(1,0,0,1,663.8486,30.1475) rotate(22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_3_bf {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_3_bf {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 3px;
+	left: 603px;
+	top: 75.5px;
+}
+#Rectangle_4_bga {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_4_bga {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 2px;
+	left: 613px;
+	top: 82.5px;
+}
+#Rectangle_5_bgb {
+	fill: rgba(47,79,86,1);
+}
+.Rectangle_5_bgb {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 3px;
+	left: 626px;
+	top: 88.5px;
+}
+#Fire_1_bgc {
+	position: absolute;
+	width: 22.759px;
+	height: 23.027px;
+	left: 463.708px;
+	top: 61.927px;
+	overflow: visible;
+}
+#Fire_2_bgd {
+	position: absolute;
+	width: 18.449px;
+	height: 18.773px;
+	left: 553.489px;
+	top: 47.852px;
+	overflow: visible;
+}
+#Rectangle_612_bge {
+	fill: rgba(47,78,85,1);
+}
+.Rectangle_612_bge {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 17px;
+	left: 1746.5px;
+	top: 24.5px;
+}
+#Path_8_bgf {
+	fill: rgba(255,255,255,1);
+}
+.Path_8_bgf {
+	overflow: visible;
+	position: absolute;
+	width: 1982px;
+	height: 4px;
+	left: -20px;
+	top: 114px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4_bgg {
+	position: absolute;
+	width: 509px;
+	height: 46px;
+	left: 1368px;
+	top: 126px;
+	overflow: visible;
+}
+#Rectangle_610_bgh {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_610_bgh {
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 37px;
+	left: 0px;
+	top: 5px;
+}
+#Type_title_author_or_genre__bgi {
+	opacity: 0.251;
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Neue Haas Grotesk Display Pro, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(21,21,21,1);
+	letter-spacing: 0.3px;
+}
+#Top_Navigation__Search_bgj {
+	opacity: 0.251;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 417px;
+	top: 15px;
+	overflow: visible;
+}
+#n_0_General__01_Icons__02_Comm_bgk {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BG_bgl {
+	fill: rgba(0,0,0,0);
+}
+.BG_bgl {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#color_bgm {
+	fill: rgba(126,132,163,1);
+}
+.color_bgm {
+	overflow: visible;
+	position: absolute;
+	width: 13px;
+	height: 13px;
+	left: 2px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Comp_4_00000_bgn {
+	position: absolute;
+	width: 46px;
+	height: 46px;
+	left: 463px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_9_bgo {
+	fill: rgba(22,38,41,1);
+}
+.Rectangle_9_bgo {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 2270px;
+	left: 0px;
+	top: 180px;
+}
+#Group_40_bgp {
+	position: absolute;
+	width: 1920px;
+	height: 49px;
+	left: 0px;
+	top: 2380px;
+	overflow: visible;
+}
+#BG_bgq {
+	fill: rgba(104,141,149,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.BG_bgq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Group_37_bgr {
+	position: absolute;
+	width: 1481px;
+	height: 28px;
+	left: 220px;
+	top: 12px;
+	overflow: visible;
+}
+#About_Us_bgs {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Feedback_bgt {
+	left: 322px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Help_bgu {
+	left: 653px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Terms_bgv {
+	left: 861px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Privacy_bgw {
+	left: 1107px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
+#Contact_bgx {
+	left: 1385px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Wavehaus, heebo,neue-haas-display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.8px;
+}
