@@ -1,4 +1,5 @@
 # Digital Dokusha
+![Logo_e@2x](https://github.com/user-attachments/assets/c6b77012-d5fe-40c9-ba83-dcf55e8a2485)
 
 **Digital Dokusha** is an all-in-one manga reading platform designed to bring together the vibrant world of manga and comics under one roof. Our mission is to create a centralized hub where fans can read, review, purchase, discuss, and even create manga, without needing to jump between multiple sites.
 
