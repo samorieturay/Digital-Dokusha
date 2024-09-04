@@ -38,7 +38,7 @@ Digital Dokusha was born out of a love for manga and a desire to unify the fragm
 
 We aim to empower smaller creators, giving them a platform to showcase and monetize their work while allowing fans to explore a diverse range of content all in one place.
 ## Code Demo
-[Link to the code demo and presentation](/https://drive.google.com/file/d/1-_A4TdAlAMFx_iikDp7AYaDf6I-EnY8c/view?usp=sharing)
+[Link to the code demo and presentation](https://drive.google.com/file/d/1-_A4TdAlAMFx_iikDp7AYaDf6I-EnY8c/view?usp=sharing)
 
 ## Getting Started
 
